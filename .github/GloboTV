@@ -1,2 +1,45 @@
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo SP"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo SP
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo SP HD"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo SP HD
+http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37361
+
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo SP FULL HD"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo SP FULL HD
+http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38424
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo SP SD"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo SP SD
+http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37090
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo RJ FULL HD"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo RJ FULL HD
+http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38425
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo RJ SD"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo RJ SD
+http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37091
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo DF FULL HD"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo DF FULL HD
+http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64592
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo DF HD"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo DF HD
+http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/40513
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo MINAS FULL HD"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo MINAS FULL HD
+http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41515
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo TERESINA FULL HD"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo TERESINA FULL HD
+http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42976
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo FORTALEZA FULL HD"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo FORTALEZA FULL HD
+http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63641
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo NORDESTE FULL HD"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo NORDESTE FULL HD
+http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42984
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo FLORIPA FULL HD"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo FLORIPA FULL HD
+http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42985
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo RIO SUL FULL HD"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo RIO SUL FULL HD
+http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/52547
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo AMAZONICA BOA VISTA FULL HD"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo AMAZONICA BOA VISTA FULL HD
+http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/73236
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo SP GPLAY"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo SP GPLAY
 https://live-as-02-25.video.globo.com/d/m/nl/s/hls-globo-sp1/playlist.m3u8?h=0401630192196124628426416301057992390257743i0fOshds0gywtGlfN1EVYg&k=html5&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
