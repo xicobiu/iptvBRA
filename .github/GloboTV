@@ -1,43 +1,43 @@
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="sao-paulo"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo SP GPLAY
+#EXTINF:-1 tvg-id="sao-paulo" tvg-name="sao-paulo"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo SP GPLAY
 https://live-as-02-25.video.globo.com/d/m/nl/s/hls-globo-sp1/playlist.m3u8?h=0401630192196124628426416301057992390257743i0fOshds0gywtGlfN1EVYg&k=html5&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
 
-#EXTINF:-1 tvg-id="Globo.br" site_id="globobrasilia"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo DF GPLAY
+#EXTINF:-1 tvg-id="lobobrasilia" tvg-name="globobrasilia"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo DF GPLAY
 https://live.video.globo.com/d/nl/s/hls-globo-df/playlist.m3u8?h=0401630180100565770533816301835818406114805MZL-WmCTYVI1vvgzj7RnzA&k=app&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="globominas"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo BH GPLAY
+#EXTINF:-1 tvg-id="globominas" tvg-name="globominas"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo BH GPLAY
 https://live.video.globo.com/d/nl/s/hls-globo-bh/playlist.m3u8?h=0401630180306580154295716301837879554258680X33BnJcgAzDSz6y47VCl-g&k=app&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="redeamazonica/amazonas"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo AM GPLAY fuso-1
+#EXTINF:-1 tvg-id="redeamazonica/amazonas" tvg-name="redeamazonica/amazonas"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo AM GPLAY fuso-1
 https://live01.video.globo.com/d/nl/s/hls-globo-man/playlist.m3u8?h=0401630180414043503874216301838965192182778u8IG3Sw1StqxJlfz61haPA&k=app&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="redeamazonica/acre"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo ACR GPLAY fuso-2
+#EXTINF:-1 tvg-id="redeamazonica/acre" tvg-name="redeamazonica/acre"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo ACR GPLAY fuso-2
 https://live.video.globo.com/d/nl/s/hls-globo-acr/playlist.m3u8?h=0401630192196124628426416301057992390257743i0fOshds0gywtGlfN1EVYg&k=html5&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="sc/nsctv"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo SC GPLAY
+#EXTINF:-1 tvg-id="sc/nsctv" tvg-name="sc/nsctv"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo SC GPLAY
 https://live.video.globo.com/d/nl/s/hls-globo-sc1/playlist.m3u8?h=0401630180564312337178516301840463123150017W6SNhRIGeX_nin_pCUtdFQ&k=app&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="redebahia"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo BA GPLAY
+#EXTINF:-1 tvg-id="redebahia" tvg-name="redebahia"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo BA GPLAY
 https://live.video.globo.com/d/nl/s/hls-globo-sal/playlist.m3u8?h=0401630180635427647469716301841175438260658mxA8yEiM2_EhfAmpY8x7qg&k=app&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="tvverdesmares"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo CE GPLAY
+#EXTINF:-1 tvg-id="tvverdesmares" tvg-name="tvverdesmares"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo CE GPLAY
 https://live.video.globo.com/d/nl/s/hls-globo-ce1/playlist.m3u8?h=0401630180704104653037316301841869691310313SIe89XZ1XdXANUsStW1j1Q&k=app&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="rs/rbstvrs"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo RS GPLAY
+#EXTINF:-1 tvg-id="rs/rbstvrs" tvg-name="rs/rbstvrs"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo RS GPLAY
 https://live.video.globo.com/d/nl/s/hls-globo-rs1/playlist.m3u8?h=0401630180752805265774416301842342310576501i-v75YhWo8w_FJUppP9oFg&k=app&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="globonordeste"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo PE GPLAY
+#EXTINF:-1 tvg-id="globonordeste" tvg-name="globonordeste"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo PE GPLAY
 https://live.video.globo.com/d/nl/s/hls-globo-pe1/playlist.m3u8?h=0401630180824966748387816301843068541385236mpsDTASDFanARq7VrK_akA&k=app&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="tvanhanguera"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo GO GPLAY
+#EXTINF:-1 tvg-id="tvanhanguera" tvg-name="tvanhanguera"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo GO GPLAY
 https://live01.video.globo.com/d/nl/s/hls-globo-go01/playlist.m3u8?h=0401630180873909005664416301843550967682981cepbwqZ5oQFMiY1Gv73pPw&k=app&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="ma/tvmirante"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo MA GPLAY
+#EXTINF:-1 tvg-id="ma/tvmirante" tvg-name="ma/tvmirante"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo MA GPLAY
 https://live.video.globo.com/d/nl/s/hls-globo-ma1/playlist.m3u8?h=0401630181093504002729116301845752288169456lO7rXYurivj_sU9t0KqMVQ&k=app&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="rpc"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo CUR GPLAY
+#EXTINF:-1 tvg-id="rpc" tvg-name="rpc"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo CUR GPLAY
 https://live.video.globo.com/d/nl/s/hls-globo-cur/playlist.m3u8?h=0401630181135550023050016301846176615088740KBzp0D3p0DEXjG0_9uTvUg&k=app&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="rio"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo RJ GPLAY
+#EXTINF:-1 tvg-id="rio" tvg-name="rio"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo RJ GPLAY
 https://live.video.globo.com/d/e/nl/s/hls-globo-rj/playlist.m3u8?h=0401630181216658148787616301846984443642368FfJq5seKdOwo3WpmIp3Nkw&k=app&a=F&u=77906d1-2f82-4626-8155-e4fb25e80e51
 
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo EUA GPLAY"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo EUA GPLAY
@@ -45,23 +45,23 @@ https://live-cm-ah-13-37.video.globo.com/d/c/400x/nl/s/hls-glbeua/playlist.m3u8?
 
 
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="sao-paulo"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo SP HD
+#EXTINF:-1 tvg-id="sao-paulo" tvg-name="sao-paulo"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo SP HD
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37361
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="rio"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo RJ FULL HD
+#EXTINF:-1 tvg-id="rio" tvg-name="rio"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo RJ FULL HD
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38425
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="globobrasilia"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo DF FULL HD
+#EXTINF:-1 tvg-id="globobrasilia" tvg-name="globobrasilia"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo DF FULL HD
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64592
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="globominas"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo MINAS FULL HD
+#EXTINF:-1 tvg-id="globominas" tvg-name="globominas"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo MINAS FULL HD
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41515
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="tvverdesmares"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo FORTALEZA FULL HD
+#EXTINF:-1 tvg-id="tvverdesmares" tvg-name="tvverdesmares"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo FORTALEZA FULL HD
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63641
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="globonordeste"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo NORDESTE FULL HD
+#EXTINF:-1 tvg-id="globonordeste" tvg-name="globonordeste"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo NORDESTE FULL HD
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42984
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="sc/nsctv"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo FLORIPA FULL HD
+#EXTINF:-1 tvg-id="sc/nsctv" tvg-name="sc/nsctv"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo FLORIPA FULL HD
 http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42985
