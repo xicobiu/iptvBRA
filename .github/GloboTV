@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="rio" tvg-name="Regionais - rio"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo RJ GPLAY
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+
 #EXTINF:-1 tvg-id="sao-paulo" tvg-name="Regionais - são paulo"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo SP GPLAY
 https://live.video.globo.com/d/nl/s/hls-globo-sp1/playlist.m3u8?h=0401630255753077274176616302592359935387181hsmWgmcUHrwpyOFZyc0tuA&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
 
@@ -37,9 +41,6 @@ https://live01.video.globo.com/d/nl/s/hls-globo-ma1/playlist.m3u8?h=040163024340
 
 #EXTINF:-1 tvg-id="rpc" tvg-name="rpc"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo CUR GPLAY
 https://live.video.globo.com/d/nl/s/hls-globo-cur/playlist.m3u8?h=0401630243442855570196816302469242170792542lCwHDkxx5lu6t7ei5-NTeQ&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
-
-#EXTINF:-1 tvg-id="rio" tvg-name="Regionais - rio"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo RJ GPLAY
-https://live.video.globo.com/d/e/nl/s/hls-globo-rj/playlist.m3u8?h=0401630243488222599715716302469694655205387HkV5ANFlkGXY6BQ1n1dsOg&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
 
 
 
