@@ -1,44 +1,44 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mi.tv.guide.xml"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/EPG/redeglobo.globo.com.channels.xml" 
 
-#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-name="TV Globo Rio de Janeiro"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",TV Globo Rio de Janeiro
+#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-name="Globo Rio"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo RJ GPLAY
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
-#EXTINF:-1 tvg-id="sao-paulo" tvg-name="Regionais - são paulo"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo SP GPLAY
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="Globo São Paulo"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo SP GPLAY
 https://live.video.globo.com/d/nl/s/hls-globo-sp1/playlist.m3u8?h=0401630255753077274176616302592359935387181hsmWgmcUHrwpyOFZyc0tuA&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
 
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasília"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo Brasília
 https://live.video.globo.com/d/nl/s/hls-globo-df/playlist.m3u8?h=0401630242594703022778316302460755562963773O6EEHRxTi14g_zTdNnbRpg&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
 
-#EXTINF:-1 tvg-id="globominas.br" tvg-name="Regionais - globominas"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo BH GPLAY
+#EXTINF:-1 tvg-id="TVglobominas.br" tvg-name="Globo Minas"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo BH GPLAY
 https://live.video.globo.com/d/nl/s/hls-globo-bh/playlist.m3u8?h=0401630242594703022778316302460755562963773O6EEHRxTi14g_zTdNnbRpg&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
 
-#EXTINF:-1 tvg-id="redeamazonica/amazonas" tvg-name="Rede Amazônica - amazonas"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo AM GPLAY fuso-1
+#EXTINF:-1 tvg-id="RedeAmazonicaManaus.br" tvg-name="Globo Manaus"  tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-amazonica-rio-branco-hd_m.png"group-title="Abertos",Globo AM GPLAY fuso-1
 https://live01.video.globo.com/d/nl/s/hls-globo-man/playlist.m3u8?h=0401630242495390036225316302459761230751473VnuIcmwkd1kjS82tWVIVuQ&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
 
-#EXTINF:-1 tvg-id="redeamazonica/acre" tvg-name="Rede Amazônica - acre"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo ACR GPLAY fuso-2
+#EXTINF:-1 tvg-id="RedeAmazonicaRioBranco.br" tvg-name="Globo Acre"  tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-amazonica-rio-branco-hd_m.png"group-title="Abertos",Globo ACR GPLAY fuso-2
 https://live01.video.globo.com/d/nl/s/hls-globo-acr/playlist.m3u8?h=0401630242993012260934016302464758235787762K9uFA4lSwSEMHvJr0jzIXA&k=app&a=F&u=77906d1-2f82-4626-8155-e4fb25e80e51
 
-#EXTINF:-1 tvg-id="sc/nsctv" tvg-name="nsctv"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo SC GPLAY
+#EXTINF:-1 tvg-id="NSCTVFlorianopolis.br" tvg-name="Globo Santa Catarina"  tvg-logo="https://cdn.mitvstatic.com/channels/br_nsc-tv-florianopolis-hd_m.png"group-title="Abertos",Globo SC GPLAY
 https://live.video.globo.com/d/nl/s/hls-globo-sc1/playlist.m3u8?h=04016302430518854455589163024653214815261514LheUhSpSf4J1JFJbm2OKw&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
 
-#EXTINF:-1 tvg-id="redebahia" tvg-name="redebahia"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo BA GPLAY
+#EXTINF:-1 tvg-id="TVBahia.br" tvg-name="Globo Bahia"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo BA GPLAY
 https://live.video.globo.com/d/nl/s/hls-globo-sal/playlist.m3u8?h=0401630243099654677469916302465801498810463qqI4YcjaqyCAqCCdDp8EfQ&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
 
-#EXTINF:-1 tvg-id="tvverdesmares" tvg-name="TV Verdes Mares - tvverdesmares"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo CE GPLAY
+#EXTINF:-1 tvg-id="TVVerdesMares.br" tvg-name="Globo Ceará"  tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-verdes-mares-1_m.png"group-title="Abertos",Globo CE GPLAY
 https://live.video.globo.com/d/nl/s/hls-globo-ce1/playlist.m3u8?h=0401630243224161037539216302467068273159829j1IO0Ti0GipLmw1rKh3Lbg&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
 
-#EXTINF:-1 tvg-id="rs/rbstvrs" tvg-name="rbs tv"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo RS GPLAY
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" tvg-name="Globo Rio Grande do Sul"  tvg-logo="https://cdn.mitvstatic.com/channels/br_rbs-tv-porto-alegre-hd_m.png"group-title="Abertos",Globo RS GPLAY
 https://live.video.globo.com/d/nl/s/hls-globo-rs1/playlist.m3u8?h=0401630243173667047358116302466547047377746O655kwmS9EuFSCHbM_nmRg&k=app&a=F&u=8377906d1-2f82-4626-8155-e4fb25e80e51
 
 #EXTINF:-1 tvg-id="GloboNordeste.br" tvg-name="Globo Nordeste"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo PE GPLAY
 https://live.video.globo.com/d/nl/s/hls-globo-pe1/playlist.m3u8?h=0401630243284158044459816302467650237682109ys90TZx7VXfRvHCKwI_nbg&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
 
-#EXTINF:-1 tvg-id="tvanhanguera" tvg-name="TV Anhanguera - goiás"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo GO GPLAY
+#EXTINF:-1 tvg-id="TVAnhanguera.br" tvg-name="Globo Goiás"  tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-anhanguera-palmas_m.png"group-title="Abertos",Globo GO GPLAY
 https://live01.video.globo.com/d/nl/s/hls-globo-go01/playlist.m3u8?h=0401630243327012748775116302468090824939053i7OzlFCZlTPRulTYdGOAhA&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
 
-#EXTINF:-1 tvg-id="ma/tvmirante" tvg-name="tvmirante"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo MA GPLAY
+#EXTINF:-1 tvg-id="TVMiranteSaoLuis.br" tvg-name="Globo Maranhão"  tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-mirante-s-o-luis_m.png"group-title="Abertos",Globo MA GPLAY
 https://live01.video.globo.com/d/nl/s/hls-globo-ma1/playlist.m3u8?h=0401630243404893788774916302468854642053985iUWI7W-r-Tjkr0kKVNikDQ&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
 
-#EXTINF:-1 tvg-id="rpc" tvg-name="rpc"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo CUR GPLAY
+#EXTINF:-1 tvg-id="RPCCuritiba.br" tvg-name="Globo Paraná"  tvg-logo="https://cdn.mitvstatic.com/channels/br_rpc-curitiba_m.png"group-title="Abertos",Globo PR GPLAY
 https://live.video.globo.com/d/nl/s/hls-globo-cur/playlist.m3u8?h=0401630243442855570196816302469242170792542lCwHDkxx5lu6t7ei5-NTeQ&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
