@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mi.tv.guide.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/EPG/redeglobo.globo.com.channels.xml" 
 
 #EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-name="TV Globo Rio de Janeiro"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",TV Globo Rio de Janeiro
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
@@ -6,7 +7,7 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 #EXTINF:-1 tvg-id="sao-paulo" tvg-name="Regionais - são paulo"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo SP GPLAY
 https://live.video.globo.com/d/nl/s/hls-globo-sp1/playlist.m3u8?h=0401630255753077274176616302592359935387181hsmWgmcUHrwpyOFZyc0tuA&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
 
-#EXTINF:-1 tvg-id="globobrasilia" tvg-name="Regionais - globo brasilia"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo DF GPLAY
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasília"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo Brasília
 https://live.video.globo.com/d/nl/s/hls-globo-df/playlist.m3u8?h=0401630242594703022778316302460755562963773O6EEHRxTi14g_zTdNnbRpg&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
 
 #EXTINF:-1 tvg-id="globominas.br" tvg-name="Regionais - globominas"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo BH GPLAY
@@ -30,7 +31,7 @@ https://live.video.globo.com/d/nl/s/hls-globo-ce1/playlist.m3u8?h=04016302432241
 #EXTINF:-1 tvg-id="rs/rbstvrs" tvg-name="rbs tv"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo RS GPLAY
 https://live.video.globo.com/d/nl/s/hls-globo-rs1/playlist.m3u8?h=0401630243173667047358116302466547047377746O655kwmS9EuFSCHbM_nmRg&k=app&a=F&u=8377906d1-2f82-4626-8155-e4fb25e80e51
 
-#EXTINF:-1 tvg-id="globonordeste" tvg-name="Regionais - globonordeste"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo PE GPLAY
+#EXTINF:-1 tvg-id="GloboNordeste.br" tvg-name="Globo Nordeste"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo PE GPLAY
 https://live.video.globo.com/d/nl/s/hls-globo-pe1/playlist.m3u8?h=0401630243284158044459816302467650237682109ys90TZx7VXfRvHCKwI_nbg&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
 
 #EXTINF:-1 tvg-id="tvanhanguera" tvg-name="TV Anhanguera - goiás"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo GO GPLAY
