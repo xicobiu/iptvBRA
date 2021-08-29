@@ -20,7 +20,7 @@ https://live.video.globo.com/d/nl/s/hls-globo-pe1/playlist.m3u8?h=04016302432841
 https://live.video.globo.com/d/nl/s/hls-globo-sal/playlist.m3u8?h=0401630243099654677469916302465801498810463qqI4YcjaqyCAqCCdDp8EfQ&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
 
 #EXTINF:-1 tvg-id="TVVerdesMares.br" tvg-name="Globo Ceará"  tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-verdes-mares-1_m.png"group-title="Abertos",Globo CE GPLAY
-https://live.video.globo.com/d/nl/s/hls-globo-ce1/playlist.m3u8?h=0401630243224161037539216302467068273159829j1IO0Ti0GipLmw1rKh3Lbg&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
+https://live-vm-ce-05.video.globo.com/d/m/nl/s/hls-globo-sp1/playlist.m3u8?h=0401630350271876216891716302638730462902890rH-21IDacDiIb2yHpr0WBA&k=html5&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
 
 #EXTINF:-1 tvg-id="TVMiranteSaoLuis.br" tvg-name="Globo Maranhão"  tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-mirante-s-o-luis_m.png"group-title="Abertos",Globo MA GPLAY
 https://live01.video.globo.com/d/nl/s/hls-globo-ma1/playlist.m3u8?h=0401630243404893788774916302468854642053985iUWI7W-r-Tjkr0kKVNikDQ&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
