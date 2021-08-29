@@ -4,7 +4,7 @@
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="Globo São Paulo"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Abertos",Globo SP GPLAY
-https://live.video.globo.com/d/nl/s/hls-globo-sp1/playlist.m3u8?h=0401630276784157992387916302802648006787302YGtoIpLCkf6zQcK5UPNAnw&k=app&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
+https://live-cm-ah-10-37.video.globo.com/d/m/nl/s/hls-globo-sp1/playlist.m3u8?h=0401630365699249898431916302793007630664504vzJOnbuvTpPoa5NncK1vDQ&k=html5&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
 
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasília"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Abertos",Globo DF
 https://live.video.globo.com/d/nl/s/hls-globo-df/playlist.m3u8?h=0401630242594703022778316302460755562963773O6EEHRxTi14g_zTdNnbRpg&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
