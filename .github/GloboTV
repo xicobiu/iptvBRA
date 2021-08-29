@@ -41,26 +41,3 @@ https://live01.video.globo.com/d/nl/s/hls-globo-ma1/playlist.m3u8?h=040163024340
 
 #EXTINF:-1 tvg-id="rpc" tvg-name="rpc"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo CUR GPLAY
 https://live.video.globo.com/d/nl/s/hls-globo-cur/playlist.m3u8?h=0401630243442855570196816302469242170792542lCwHDkxx5lu6t7ei5-NTeQ&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
-
-
-
-#EXTINF:-1 tvg-id="sao-paulo" tvg-name="Regionais - são paulo"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo SP HD
-http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/37361
-
-#EXTINF:-1 tvg-id="rio" tvg-name="Regionais - rio"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo RJ FULL HD
-http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/38425
-
-#EXTINF:-1 tvg-id="globobrasilia" tvg-name="Regionais - globo brasilia"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo DF FULL HD
-http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/64592
-
-#EXTINF:-1 tvg-id="globominas" tvg-name="Regionais - globominas"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo MINAS FULL HD
-http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/41515
-
-#EXTINF:-1 tvg-id="tvverdesmares" tvg-name="TV Verdes Mares - tvverdesmares"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo FORTALEZA FULL HD
-http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/63641
-
-#EXTINF:-1 tvg-id="globonordeste" tvg-name="Regionais - globonordeste"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo NORDESTE FULL HD
-http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42984
-
-#EXTINF:-1 tvg-id="sc/nsctv" tvg-name="nsctv"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo FLORIPA FULL HD
-http://tv.factoryiptv.com:80/sampaio2021/sampaio2021/42985
