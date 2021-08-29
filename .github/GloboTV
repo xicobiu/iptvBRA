@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="sao-paulo" tvg-name="Regionais - são paulo"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo SP GPLAY
-https://live.video.globo.com/d/nl/s/hls-globo-sp1/playlist.m3u8?h=0401630192196124628426416301057992390257743i0fOshds0gywtGlfN1EVYg&k=html5&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
+https://live.video.globo.com/d/nl/s/hls-globo-sp1/playlist.m3u8?h=0401630255753077274176616302592359935387181hsmWgmcUHrwpyOFZyc0tuA&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
 
 #EXTINF:-1 tvg-id="globobrasilia" tvg-name="Regionais - globo brasilia"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo DF GPLAY
 https://live.video.globo.com/d/nl/s/hls-globo-df/playlist.m3u8?h=0401630242594703022778316302460755562963773O6EEHRxTi14g_zTdNnbRpg&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
