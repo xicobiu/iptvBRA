@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mi.tv.guide.xml"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/EPG/redeglobo.globo.com.channels.xml" 
 
 #EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-name="Globo Rio"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Abertos",Globo RJ GPLAY
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
