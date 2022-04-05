@@ -1,0 +1,10 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mi.tv.guide.xml"
+
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="Globo São Paulo"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Abertos",Globo SP GPLAY
+https://live-cm-ah-10-37.video.globo.com/d/m/nl/s/hls-globo-sp1/playlist.m3u8?h=0401630365699249898431916302793007630664504vzJOnbuvTpPoa5NncK1vDQ&k=html5&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
+
+#EXTINF:-1 tvg-id="" tvg-name="Rádio CBN Rio"  tvg-logo="https://i.imgur.com/Vs3B9Ie.png"group-title="Radio",Rádio CBN Rio
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rádio CBN São Paulo"  tvg-logo="https://i.imgur.com/Vs3B9Ie.png"group-title="Radio",Rádio CBN São Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
