@@ -1,4 +1,4 @@
-# iptvBRA
+# iptvBRA - daily updates
 
 # Use this link to Globo TV Beta: https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-SP
 
