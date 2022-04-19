@@ -1,8 +1,3 @@
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="Globo São Paulo"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Abertos",Globo SP GPLAY
 https://live-vm-ce-08.video.globo.com/h/04016504834411777080642165039704142099312085apY9LIIx3hd8AjmjIGXiw/k/html5/a/F/u/377906d1-2f82-4626-8155-e4fb25e80e51/nu/globo-sp1/globo-sp1-audio_1=96000-video=3442944.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Rádio CBN Rio"  tvg-logo="https://i.imgur.com/Vs3B9Ie.png"group-title="Radio",Rádio CBN Rio
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Rádio CBN São Paulo"  tvg-logo="https://i.imgur.com/Vs3B9Ie.png"group-title="Radio",Rádio CBN São Paulo
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
