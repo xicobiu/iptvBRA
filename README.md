@@ -1,7 +1,47 @@
-# iptvBRA - daily updates
+# iptvBRA
 
-# Use this link to Globo TV Beta: https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-SP
+__No Navegador:__
+<br>
+![Player](https://i.imgur.com/JxVVqNm.png)
+<br>
+1.
+Para assistir direto no navegador, instale a extensão __Play HLS M3u8:__
+<a href="https://chrome.google.com/webstore/detail/play-hls-m3u8/ckblfoghkjhaclegefojbgllenffajdc"> Chrome, Brave e Edge</a> - <a href="https://addons.mozilla.org/en-US/firefox/addon/play-hls-chrome/"> Firefox</a>
+<br>
+2. Depois basta clicar no link da Rede Globo.
+<br>
+<br>
+__PC:__
+ - Você pode usar o VLC Player para assistir. Copie o link e no VLC use o comando Command + N e cole.
 
-# Use this link to Pluto TV Global: https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/PLUTO%20TV%20Global.m3u
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/904px-VLC_Icon.svg.png" height="80" class="center"  >   </img> 
 
-# Use this link to TV Aberta Beta: https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/tv-aberta
+__Android:__
+ - Você pode também usar o VLC Player para assistir. Copie o link e cole.
+----------------------------------------------------------------------------
+
+## Globo São Paulo
+<a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-SP.m3u8"> Assistir com o Play HLS M3u8 </a> 
+<br>
+ou
+<br>
+<a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-SP"> Copie o Link <br></a> 
+<br>
+<img src="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/logo/Rede-Globo-SP-Banner.png"> </img> 
+<br>
+- [ ] :tada:
+- [ ] :shipit: 
+- [ ] :+1:
+
+##  Pluto TV Global 
+<a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/PLUTO%20TV%20Global.m3u"> Copiar Link<br></a>
+<br>
+<img src="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/logo/Pluto-TV-Logo-Xicobiu.png"> </img>
+
+
+## TV Aberta Beta 
+<a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/tv-aberta"> Copiar Link<br></a>
+<br>
+<img src="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/logo/TV-Aberta-Logo.png"> </img>
+
+
