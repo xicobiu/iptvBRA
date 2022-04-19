@@ -1,4 +1,4 @@
-# iptvBRA
+# iptvBRA Beta 2.0
 
 __No Navegador:__
 <br>
@@ -29,9 +29,6 @@ ou
 <br>
 <img src="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/logo/Rede-Globo-SP-Banner.png"> </img> 
 <br>
-- [ ] :tada:
-- [ ] :shipit: 
-- [ ] :+1:
 
 ##  Pluto TV Global 
 <a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/PLUTO%20TV%20Global.m3u"> Copiar Link<br></a>
