@@ -30,6 +30,16 @@ ou
 <img src="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/logo/Rede-Globo-SP-Banner.png"> </img> 
 <br>
 
+## Globo Rio
+<a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-RJ.m3u8"> Assistir com o Play HLS M3u8 </a> 
+<br>
+ou
+<br>
+<a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-RJ"> Copie o Link <br></a> 
+<br>
+<img src="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/logo/Rede-Globo-RJ-Banner.png"> </img> 
+<br>
+
 ##  Pluto TV Global 
 <a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/PLUTO%20TV%20Global.m3u"> Copiar Link<br></a>
 <br>
