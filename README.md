@@ -25,7 +25,7 @@ __Android:__
 <br>
 ou
 <br>
-<a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-SP"> Copie o Link <br></a> 
+<a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-SP.m3u8"> Copie o Link <br></a> 
 <br>
 <img src="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/logo/Rede-Globo-SP-Banner.png"> </img> 
 <br>
@@ -35,7 +35,7 @@ ou
 <br>
 ou
 <br>
-<a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-RJ"> Copie o Link <br></a> 
+<a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-RJ.m3u8"> Copie o Link <br></a> 
 <br>
 <img src="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/logo/Rede-Globo-RJ-Banner.png"> </img> 
 <br>
