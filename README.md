@@ -27,7 +27,7 @@ ou
 <br>
 <a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-SP.m3u8"> Copie o Link <br></a> 
 <br>
-<img src="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/logo/Rede-Globo-SP-Banner.png"> </img> 
+<img src="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/logo/Rede-Globo-SP-Banner-Carnaval-2022.png"> </img> 
 <br>
 
 ## Globo Rio
@@ -37,7 +37,7 @@ ou
 <br>
 <a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-RJ.m3u8"> Copie o Link <br></a> 
 <br>
-<img src="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/logo/Rede-Globo-RJ-Banner.png"> </img> 
+<img src="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/logo/Rede-Globo-RJ-Banner-Carnaval-22.png"> </img> 
 <br>
 
 ##  Pluto TV Global 
