@@ -51,4 +51,10 @@ ou
 <br>
 <img src="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/logo/TV-Aberta-Logo.png"> </img>
 
-
+## Rádio CBN
+<a href="https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8"> CBN Rio</a> 
+<br>
+<a href="https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8"> CBN SP<br></a> 
+<br>
+<img src="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/logo/R%C3%A1dio-CBN.png"> </img> 
+<br>
