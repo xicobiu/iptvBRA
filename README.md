@@ -21,7 +21,7 @@ __Android:__
 ----------------------------------------------------------------------------
 
 ## Globo São Paulo
-<a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-SP.m3u8"> Assistir com o Play HLS M3u8 </a> 
+<a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-SP.m3u8"> Assista aqui com o Play HLS M3u8 ou copie o link</a> 
 <br>
 ou
 <br>
@@ -31,7 +31,7 @@ ou
 <br>
 
 ## Globo Rio
-<a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-RJ.m3u8"> Assistir com o Play HLS M3u8 </a> 
+<a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-RJ.m3u8"> Assista aqui com o Play HLS M3u8 ou copie o link</a> 
 <br>
 ou
 <br>
