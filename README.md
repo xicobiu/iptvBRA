@@ -23,9 +23,6 @@ __Android:__
 ## Globo São Paulo
 <a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-SP.m3u8"> Assista aqui com o Play HLS M3u8 ou copie o link</a> 
 <br>
-ou
-<br>
-<a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-SP.m3u8"> Copie o Link <br></a> 
 <br>
 <img src="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/logo/Rede-Globo-SP-Banner-Carnaval-2022.png"> </img> 
 <br>
@@ -33,9 +30,6 @@ ou
 ## Globo Rio
 <a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-RJ.m3u8"> Assista aqui com o Play HLS M3u8 ou copie o link</a> 
 <br>
-ou
-<br>
-<a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-RJ.m3u8"> Copie o Link <br></a> 
 <br>
 <img src="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/logo/Rede-Globo-RJ-Banner-Carnaval-22.png"> </img> 
 <br>
