@@ -24,15 +24,17 @@ __Android:__
 <a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-SP.m3u8"> Assista aqui com o Play HLS M3u8 ou copie o link</a> 
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/logo/Rede-Globo-SP-Banner-Carnaval-2022.png"> </img> 
+<img src="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/logo/Rede-Globo-SP-Banner.png"> </img> 
 <br>
 
+<!--
 ## Globo Rio
 <a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-RJ.m3u8"> Assista aqui com o Play HLS M3u8 ou copie o link</a> 
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/logo/Rede-Globo-RJ-Banner-Carnaval-22.png"> </img> 
 <br>
+-->
 
 ##  Pluto TV Global 
 <a href="https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/PLUTO%20TV%20Global.m3u"> Copiar Link<br></a>
