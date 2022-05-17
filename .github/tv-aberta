@@ -28,24 +28,53 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1 tvg-chno="09" tvg-id="BandNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/BandNews_logo_2019.png" group-title="TV",Band News
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42411
 
-#EXTINF:-1 tvg-chno="10" tvg-id="RecordTV.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Record_logo_2016_%281%29.png" group-title="TV",Record TV
+#EXTINF:-1 tvg-id="10" tvg-name="globonews.br"  tvg-logo="http://i.imgur.com/UOMWJH6.png"group-title="Abertos",Globo News
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36917
+
+#EXTINF:-1 tvg-chno="11" tvg-id="RecordTV.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Record_logo_2016_%281%29.png" group-title="TV",Record TV
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/38421
 
-#EXTINF:-1 tvg-chno="11" tvg-id="RedeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/RedeTV%21Logotipo.jpg" group-title="TV",Rede TV!
+#EXTINF:-1 tvg-chno="12" tvg-id="RedeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/RedeTV%21Logotipo.jpg" group-title="TV",Rede TV!
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36946
 
-#EXTINF:-1 tvg-chno="12" tvg-id="RedeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/RedeTV%21Logotipo.jpg" group-title="TV",Rede TV! PB
+#EXTINF:-1 tvg-chno="13" tvg-id="RedeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/RedeTV%21Logotipo.jpg" group-title="TV",Rede TV! PB
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36946https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w2010780107_b1626047.m3u8
 
-#EXTINF:-1 tvg-chno="13" tvg-id="CNNBrasil.br" tvg-logo="https://banner.online.go.oi.com.br/assets/s114159_h3_aa.png" group-title="TV",CNN Brasil
+#EXTINF:-1 tvg-chno="14" tvg-id="CNNBrasil.br" tvg-logo="https://banner.online.go.oi.com.br/assets/s114159_h3_aa.png" group-title="TV",CNN Brasil
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/65041
 
-#EXTINF:-1 tvg-chno="14" tvg-id="TvCultura.br" tvg-logo="https://banner.online.go.oi.com.br/assets/s76216_h3_aa.png" group-title="TV",Tv Cultura
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42903
+#EXTINF:-1 tvg-chno="15" tvg-id="TvCultura.br" tvg-logo="https://banner.online.go.oi.com.br/assets/s76216_h3_aa.png" group-title="TV",Tv Cultura
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/61961
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Globo.br" tvg-logo="https://logospng.org/download/rede-globo/logo-rede-globo-256.png" group-title="TV",Globo SP
+#EXTINF:-1 tvg-chno="16" tvg-id="Globo.br" tvg-logo="https://logospng.org/download/rede-globo/logo-rede-globo-256.png" group-title="TV",Globo SP
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37361
 
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="Globo São Paulo"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Abertos",Globo SP GPLAY
+#EXTINF:-1 tvg-id="17r" tvg-name="Globo São Paulo"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Abertos",Globo SP GPLAY
 https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-SP.m3u8
+
+#EXTINF:-1 tvg-id="18" tvg-name="Globo.br"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Abertos",Globo CE
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/63641
+
+#EXTINF:-1 tvg-id="19" tvg-name="Globo.br"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Abertos",Globo SC
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42958
+
+#EXTINF:-1 tvg-id="20" tvg-name="MtvLive"  tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/MTVLIVE/large_white.png"group-title="Abertos",MTV Live
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/40518
+
+#EXTINF:-1 tvg-id="21" tvg-name="Mtv.br"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/MTV_Music_2017_logo_Australia.svg/200px-MTV_Music_2017_logo_Australia.svg.png"group-title="Abertos",MTV
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/40266
+
+#EXTINF:-1 tvg-id="22" tvg-name="RECORDNEWS.br"  tvg-logo="http://i.imgur.com/I99RZ9n.png"group-title="Abertos",Record News
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/41502
+
+#EXTINF:-1 tvg-id="23" tvg-name="tvnovotempo.br"  tvg-logo="https://i.imgur.com/Y2ncDiz.png"group-title="Abertos",Tv Novo Tempo
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/61963
+
+#EXTINF:-1 tvg-id="24" tvg-name="tvaparecida.br"  tvg-logo="http://i.imgur.com/UOMWJH6.png"group-title="Abertos",Tv Aparecida
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/75175
+
+#EXTINF:-1 tvg-id="25" tvg-name="globonews.br"  tvg-logo="http://i.imgur.com/GIbRutN.png"group-title="Abertos",Globo News
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36917
+
+
 
