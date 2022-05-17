@@ -3,3 +3,47 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
 
 #EXTINF:-1 tvg-chno="04" tvg-id="Sbt.br" tvg-logo="https://imgur.com/3Mrx9Ee.png" group-title="TV",SBT
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="04" tvg-id="TVGAZETA.br" tvg-logo="" group-title="TV",TV GAZETA
+http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
+
+#EXTINF:-1 tvg-chno="04" tvg-id="TVGAZETA.br" tvg-logo="" group-title="TV",TV GAZETA 2
+https://www.dailymotion.com/cdn/live/video/x89qors.m3u8?sec=GaIaKVsrc5-3QR3KjdVaRlEQ2irjGFAjECquyT47-DCmadu1Du1w6wfffY3Ar6z_X7M4rjRiV4Yq4c0rs3dHyg&dmTs=173232&dmV1st=3D0880EF6EEAE5924458860E18B47B7B
+
+#EXTINF:-1 tvg-chno="04" tvg-id="Cultura.br" tvg-logo="" group-title="TV",Cultura PR Catve
+http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
+
+#EXTINF:-1 tvg-chno="04" tvg-id="TVE.br" tvg-logo="" group-title="TV",TVE BAHIA
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1 tvg-chno="04" tvg-id="" tvg-logo="" group-title="TV",TV Meio Norte
+https://playback2.akamaized.net/streams/3332377_10406003_lsi49eivnjgapcz9rud_1/master.m3u8?dw=14400&hdnts=exp=1652744899~acl=/streams/3332377_10406003_lsi49eivnjgapcz9rud_1/master.m3u8*~hmac=0dcd77c5e18e2f518479950b4ceae8f909d217917435c4069535b57f6809adbb
+
+#EXTINF:-1 tvg-chno="04" tvg-id="TvDiario.br" tvg-logo="https://tvonline.fm/wp-content/uploads/2016/04/tvdiarioce.png" group-title="TV",Tv Diário
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w2010780107_b1626047.m3u8
+ 
+#EXTINF:-1 tvg-chno="04" tvg-id="Terraviva.br" tvg-logo="" group-title="TV",Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="04" tvg-id="BandNews.br" tvg-logo="" group-title="TV",Band News
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42411
+
+#EXTINF:-1 tvg-chno="04" tvg-id="RecordTV.br" tvg-logo="" group-title="TV",Record TV
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36947
+
+#EXTINF:-1 tvg-chno="04" tvg-id="RedeTV.br" tvg-logo="" group-title="TV",Rede TV!
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36946
+
+#EXTINF:-1 tvg-chno="04" tvg-id="RedeTV.br" tvg-logo="" group-title="TV",Rede TV! PB
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36946https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w2010780107_b1626047.m3u8
+
+#EXTINF:-1 tvg-chno="04" tvg-id="CNNBrasil.br" tvg-logo="" group-title="TV",CNN Brasil
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/65041
+
+#EXTINF:-1 tvg-chno="04" tvg-id="TvCultura.br" tvg-logo="" group-title="TV",Tv Cultura
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42903
+
+#EXTINF:-1 tvg-chno="04" tvg-id="Globo.br" tvg-logo="" group-title="TV",Globo SP
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37361
+
+
