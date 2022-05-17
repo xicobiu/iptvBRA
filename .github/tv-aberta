@@ -1,46 +1,51 @@
-#EXTINF:-1 tvg-chno="07" tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/Ll0dvQY.png" tvg-shift="0" group-title="TV", BAND
+#EXTINF:-1 tvg-chno="01" tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/Ll0dvQY.png" tvg-shift="0" group-title="TV", BAND
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
 
-#EXTINF:-1 tvg-chno="04" tvg-id="Sbt.br" tvg-logo="https://imgur.com/3Mrx9Ee.png" group-title="TV",SBT
+#EXTINF:-1 tvg-chno="02" tvg-id="Sbt.br" tvg-logo="https://imgur.com/3Mrx9Ee.png" group-title="TV",SBT
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="04" tvg-id="TVGAZETA.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TV_Gazeta_logo.svg/300px-TV_Gazeta_logo.svg.png" group-title="TV",TV GAZETA
 http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
 
-#EXTINF:-1 tvg-chno="04" tvg-id="TVGAZETA.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TV_Gazeta_logo.svg/300px-TV_Gazeta_logo.svg.png" group-title="TV",TV GAZETA 2
+#EXTINF:-1 tvg-chno="03" tvg-id="TVGAZETA.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TV_Gazeta_logo.svg/300px-TV_Gazeta_logo.svg.png" group-title="TV",TV GAZETA 2
 https://www.dailymotion.com/cdn/live/video/x89qors.m3u8?sec=GaIaKVsrc5-3QR3KjdVaRlEQ2irjGFAjECquyT47-DCmadu1Du1w6wfffY3Ar6z_X7M4rjRiV4Yq4c0rs3dHyg&dmTs=173232&dmV1st=3D0880EF6EEAE5924458860E18B47B7B
 
 #EXTINF:-1 tvg-chno="04" tvg-id="Cultura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Catve.png" group-title="TV",Cultura PR Catve
 http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
 
-#EXTINF:-1 tvg-chno="04" tvg-id="TVE.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/terra-viva-logo.png" group-title="TV",TVE BAHIA
+#EXTINF:-1 tvg-chno="05" tvg-id="TVE.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/terra-viva-logo.png" group-title="TV",TVE BAHIA
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
-#EXTINF:-1 tvg-chno="04" tvg-id="TvDiario.br" tvg-logo="https://tvonline.fm/wp-content/uploads/2016/04/tvdiarioce.png" group-title="TV",Tv Diário
+#EXTINF:-1 tvg-chno="06" tvg-id="TvArapuan.br" tvg-logo="https://tvonline.fm/wp-content/uploads/2016/04/tvdiarioce.png" group-title="TV",Tv Arapuan
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w2010780107_b1626047.m3u8
  
-#EXTINF:-1 tvg-chno="04" tvg-id="Terraviva.br" tvg-logo="" group-title="TV",Terra Viva
+#EXTINF:-1 tvg-chno="07" tvg-id="Tvdiario.br" tvg-logo="https://tvonline.fm/wp-content/uploads/2016/04/tvdiarioce.png" group-title="TV",Tv Diário
+https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZRggOHdwpy6p7FMNxjF_37TlsMx-TFmGxAYweaH5zW-z)/dm/3/x7txn7q/s/live-3.m3u8
+ 
+#EXTINF:-1 tvg-chno="08" tvg-id="Terraviva.br" tvg-logo="" group-title="TV",Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="04" tvg-id="BandNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/BandNews_logo_2019.png" group-title="TV",Band News
+#EXTINF:-1 tvg-chno="09" tvg-id="BandNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/BandNews_logo_2019.png" group-title="TV",Band News
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42411
 
-#EXTINF:-1 tvg-chno="04" tvg-id="RecordTV.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Record_logo_2016_%281%29.png" group-title="TV",Record TV
+#EXTINF:-1 tvg-chno="10" tvg-id="RecordTV.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Record_logo_2016_%281%29.png" group-title="TV",Record TV
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/38421
 
-#EXTINF:-1 tvg-chno="04" tvg-id="RedeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/RedeTV%21Logotipo.jpg" group-title="TV",Rede TV!
+#EXTINF:-1 tvg-chno="11" tvg-id="RedeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/RedeTV%21Logotipo.jpg" group-title="TV",Rede TV!
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36946
 
-#EXTINF:-1 tvg-chno="04" tvg-id="RedeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/RedeTV%21Logotipo.jpg" group-title="TV",Rede TV! PB
+#EXTINF:-1 tvg-chno="12" tvg-id="RedeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/RedeTV%21Logotipo.jpg" group-title="TV",Rede TV! PB
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36946https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w2010780107_b1626047.m3u8
 
-#EXTINF:-1 tvg-chno="04" tvg-id="CNNBrasil.br" tvg-logo="https://banner.online.go.oi.com.br/assets/s114159_h3_aa.png" group-title="TV",CNN Brasil
+#EXTINF:-1 tvg-chno="13" tvg-id="CNNBrasil.br" tvg-logo="https://banner.online.go.oi.com.br/assets/s114159_h3_aa.png" group-title="TV",CNN Brasil
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/65041
 
-#EXTINF:-1 tvg-chno="04" tvg-id="TvCultura.br" tvg-logo="https://banner.online.go.oi.com.br/assets/s76216_h3_aa.png" group-title="TV",Tv Cultura
+#EXTINF:-1 tvg-chno="14" tvg-id="TvCultura.br" tvg-logo="https://banner.online.go.oi.com.br/assets/s76216_h3_aa.png" group-title="TV",Tv Cultura
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42903
 
-#EXTINF:-1 tvg-chno="04" tvg-id="Globo.br" tvg-logo="https://logospng.org/download/rede-globo/logo-rede-globo-256.png" group-title="TV",Globo SP
+#EXTINF:-1 tvg-chno="15" tvg-id="Globo.br" tvg-logo="https://logospng.org/download/rede-globo/logo-rede-globo-256.png" group-title="TV",Globo SP
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37361
 
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="Globo São Paulo"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Abertos",Globo SP GPLAY
+https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-SP.m3u8
 
