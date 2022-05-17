@@ -46,5 +46,6 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42903
 #EXTINF:-1 tvg-chno="15" tvg-id="Globo.br" tvg-logo="https://logospng.org/download/rede-globo/logo-rede-globo-256.png" group-title="TV",Globo SP
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37361
 
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="Globo São Paulo"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Abertos",Globo SP GPLAY
 https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-SP.m3u8
 
