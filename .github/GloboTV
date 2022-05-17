@@ -1,49 +1,41 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mi.tv.guide.xml"
 
-#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-name="Globo Rio"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Abertos",Globo RJ GPLAY
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-name="Globo Rio"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Abertos",Globo RJ
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/38425
 
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="Globo São Paulo"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Abertos",Globo SP GPLAY
-https://live-cm-ah-10-37.video.globo.com/d/m/nl/s/hls-globo-sp1/playlist.m3u8?h=0401630365699249898431916302793007630664504vzJOnbuvTpPoa5NncK1vDQ&k=html5&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="Globo São Paulo"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Canais Globo",Globo SP
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/68050
 
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasília"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Abertos",Globo DF
-https://live.video.globo.com/d/nl/s/hls-globo-df/playlist.m3u8?h=0401630242594703022778316302460755562963773O6EEHRxTi14g_zTdNnbRpg&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasília"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Canais Globo",Globo DF
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/64592
 
-#EXTINF:-1 tvg-id="TVglobominas.br" tvg-name="Globo Minas"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Abertos",Globo BH GPLAY
-https://live.video.globo.com/d/nl/s/hls-globo-bh/playlist.m3u8?h=0401630242594703022778316302460755562963773O6EEHRxTi14g_zTdNnbRpg&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
+#EXTINF:-1 tvg-id="TVglobominas.br" tvg-name="Globo Minas"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Canais Globo",Globo BH
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/41515
 
-#EXTINF:-1 tvg-id="GloboNordeste.br" tvg-name="Globo Nordeste"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Abertos",Globo PE GPLAY
-https://live.video.globo.com/d/nl/s/hls-globo-pe1/playlist.m3u8?h=0401630243284158044459816302467650237682109ys90TZx7VXfRvHCKwI_nbg&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
+#EXTINF:-1 tvg-id="GloboNordeste.br" tvg-name="Globo Nordeste"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Canais Globo",Globo PE
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42984
 
-#EXTINF:-1 tvg-id="TVBahia.br" tvg-name="Globo Bahia"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Abertos",Globo BA GPLAY
-https://live.video.globo.com/d/nl/s/hls-globo-sal/playlist.m3u8?h=0401630243099654677469916302465801498810463qqI4YcjaqyCAqCCdDp8EfQ&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
+#EXTINF:-1 tvg-id="TVBahia.br" tvg-name="Globo Bahia"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Canais Globo",Globo BA
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/72890
 
-#EXTINF:-1 tvg-id="TVVerdesMares.br" tvg-name="Globo Ceará"  tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-verdes-mares-1_m.png"group-title="Abertos",Globo CE GPLAY
-https://live.video.globo.com/d/nl/s/hls-globo-ce1/playlist.m3u8?h=0401630243224161037539216302467068273159829j1IO0Ti0GipLmw1rKh3Lbg&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
+#EXTINF:-1 tvg-id="TVVerdesMares.br" tvg-name="Globo Ceará"  tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-verdes-mares-1_m.png"group-title="Canais Globo",Globo CE
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/63641
 
-#EXTINF:-1 tvg-id="TVMiranteSaoLuis.br" tvg-name="Globo Maranhão"  tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-mirante-s-o-luis_m.png"group-title="Abertos",Globo MA GPLAY
-https://live01.video.globo.com/d/nl/s/hls-globo-ma1/playlist.m3u8?h=0401630243404893788774916302468854642053985iUWI7W-r-Tjkr0kKVNikDQ&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
+#EXTINF:-1 tvg-id="TVMiranteSaoLuis.br" tvg-name="Globo Maranhão"  tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-mirante-s-o-luis_m.png"group-title="Canais Globo",Globo MA
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42988
 
-#EXTINF:-1 tvg-id="TVAnhanguera.br" tvg-name="Globo Goiás"  tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-anhanguera-palmas_m.png"group-title="Abertos",Globo GO GPLAY
-https://live01.video.globo.com/d/nl/s/hls-globo-go01/playlist.m3u8?h=0401630243327012748775116302468090824939053i7OzlFCZlTPRulTYdGOAhA&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
+#EXTINF:-1 tvg-id="TVAnhanguera.br" tvg-name="Globo Goiás"  tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-anhanguera-palmas_m.png"group-title="Canais Globo",Globo GO GPLAY
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42986
 
-#EXTINF:-1 tvg-id="RPCCuritiba.br" tvg-name="Globo Paraná"  tvg-logo="https://cdn.mitvstatic.com/channels/br_rpc-curitiba_m.png"group-title="Abertos",Globo PR GPLAY
-https://live.video.globo.com/d/nl/s/hls-globo-cur/playlist.m3u8?h=0401630243442855570196816302469242170792542lCwHDkxx5lu6t7ei5-NTeQ&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
+#EXTINF:-1 tvg-id="RPCCuritiba.br" tvg-name="Globo Paraná"  tvg-logo="https://cdn.mitvstatic.com/channels/br_rpc-curitiba_m.png"group-title="Canais Globo",Globo PR GPLAY
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/38381
 
-#EXTINF:-1 tvg-id="NSCTVFlorianopolis.br" tvg-name="Globo Santa Catarina"  tvg-logo="https://cdn.mitvstatic.com/channels/br_nsc-tv-florianopolis-hd_m.png"group-title="Abertos",Globo SC GPLAY
-https://live.video.globo.com/d/nl/s/hls-globo-sc1/playlist.m3u8?h=04016302430518854455589163024653214815261514LheUhSpSf4J1JFJbm2OKw&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
+#EXTINF:-1 tvg-id="NSCTVFlorianopolis.br" tvg-name="Globo Santa Catarina"  tvg-logo="https://cdn.mitvstatic.com/channels/br_nsc-tv-florianopolis-hd_m.png"group-title="Canais Globo",Globo SC GPLAY
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42969
 
-#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" tvg-name="Globo Rio Grande do Sul"  tvg-logo="https://cdn.mitvstatic.com/channels/br_rbs-tv-porto-alegre-hd_m.png"group-title="Abertos",Globo RS GPLAY
-https://live.video.globo.com/d/nl/s/hls-globo-rs1/playlist.m3u8?h=0401630243173667047358116302466547047377746O655kwmS9EuFSCHbM_nmRg&k=app&a=F&u=8377906d1-2f82-4626-8155-e4fb25e80e51
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" tvg-name="Globo Rio Grande do Sul"  tvg-logo="https://cdn.mitvstatic.com/channels/br_rbs-tv-porto-alegre-hd_m.png"group-title="Canais Globo",Globo RS GPLAY
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/51215
 
-#EXTINF:-1 tvg-id="RedeAmazonicaManaus.br" tvg-name="Globo Manaus"  tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-amazonica-rio-branco-hd_m.png"group-title="Abertos",Globo AM GPLAY fuso-1
-https://live01.video.globo.com/d/nl/s/hls-globo-man/playlist.m3u8?h=0401630242495390036225316302459761230751473VnuIcmwkd1kjS82tWVIVuQ&k=app&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
+#EXTINF:-1 tvg-id="RedeAmazonicaManaus.br" tvg-name="Globo Manaus"  tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-amazonica-rio-branco-hd_m.png"group-title="Canais Globo",Globo AM GPLAY fuso-1
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/64649
 
-#EXTINF:-1 tvg-id="RedeAmazonicaRioBranco.br" tvg-name="Globo Acre"  tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-amazonica-rio-branco-hd_m.png"group-title="Abertos",Globo ACR GPLAY fuso-2
-https://live01.video.globo.com/d/nl/s/hls-globo-acr/playlist.m3u8?h=0401630242993012260934016302464758235787762K9uFA4lSwSEMHvJr0jzIXA&k=app&a=F&u=77906d1-2f82-4626-8155-e4fb25e80e51
-
-#EXTINF:-1 tvg-id="" tvg-name="Rádio CBN Rio"  tvg-logo="https://i.imgur.com/Vs3B9Ie.png"group-title="Radio",Rádio CBN Rio
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Rádio CBN São Paulo"  tvg-logo="https://i.imgur.com/Vs3B9Ie.png"group-title="Radio",Rádio CBN São Paulo
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
