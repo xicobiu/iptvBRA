@@ -24,18 +24,18 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/63641
 #EXTINF:-1 tvg-id="TVMiranteSaoLuis.br" tvg-name="Globo Maranhão"  tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-mirante-s-o-luis_m.png"group-title="Canais Globo",Globo MA
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42988
 
-#EXTINF:-1 tvg-id="TVAnhanguera.br" tvg-name="Globo Goiás"  tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-anhanguera-palmas_m.png"group-title="Canais Globo",Globo GO GPLAY
+#EXTINF:-1 tvg-id="TVAnhanguera.br" tvg-name="Globo Goiás"  tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-anhanguera-palmas_m.png"group-title="Canais Globo",Globo GO
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42986
 
-#EXTINF:-1 tvg-id="RPCCuritiba.br" tvg-name="Globo Paraná"  tvg-logo="https://cdn.mitvstatic.com/channels/br_rpc-curitiba_m.png"group-title="Canais Globo",Globo PR GPLAY
+#EXTINF:-1 tvg-id="RPCCuritiba.br" tvg-name="Globo Paraná"  tvg-logo="https://cdn.mitvstatic.com/channels/br_rpc-curitiba_m.png"group-title="Canais Globo",Globo PR
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/38381
 
-#EXTINF:-1 tvg-id="NSCTVFlorianopolis.br" tvg-name="Globo Santa Catarina"  tvg-logo="https://cdn.mitvstatic.com/channels/br_nsc-tv-florianopolis-hd_m.png"group-title="Canais Globo",Globo SC GPLAY
+#EXTINF:-1 tvg-id="NSCTVFlorianopolis.br" tvg-name="Globo Santa Catarina"  tvg-logo="https://cdn.mitvstatic.com/channels/br_nsc-tv-florianopolis-hd_m.png"group-title="Canais Globo",Globo SC
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42969
 
-#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" tvg-name="Globo Rio Grande do Sul"  tvg-logo="https://cdn.mitvstatic.com/channels/br_rbs-tv-porto-alegre-hd_m.png"group-title="Canais Globo",Globo RS GPLAY
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" tvg-name="Globo Rio Grande do Sul"  tvg-logo="https://cdn.mitvstatic.com/channels/br_rbs-tv-porto-alegre-hd_m.png"group-title="Canais Globo",Globo RS
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/51215
 
-#EXTINF:-1 tvg-id="RedeAmazonicaManaus.br" tvg-name="Globo Manaus"  tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-amazonica-rio-branco-hd_m.png"group-title="Canais Globo",Globo AM GPLAY fuso-1
+#EXTINF:-1 tvg-id="RedeAmazonicaManaus.br" tvg-name="Globo Manaus"  tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-amazonica-rio-branco-hd_m.png"group-title="Canais Globo",Globo AM fuso-1
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/64649
 
