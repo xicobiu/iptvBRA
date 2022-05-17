@@ -1,21 +1,21 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mi.tv.guide.xml"
 
-#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-name="Globo Rio"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Abertos",Globo RJ
+#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-name="Globo Rio"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"group-title="Abertos",Globo RJ
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/38425
 
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="Globo São Paulo"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Canais Globo",Globo SP
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="Globo São Paulo"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"group-title="Canais Globo",Globo SP
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/68050
 
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasília"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Canais Globo",Globo DF
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasília"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"group-title="Canais Globo",Globo DF
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/64592
 
-#EXTINF:-1 tvg-id="TVglobominas.br" tvg-name="Globo Minas"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Canais Globo",Globo BH
+#EXTINF:-1 tvg-id="TVglobominas.br" tvg-name="Globo Minas"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"group-title="Canais Globo",Globo BH
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/41515
 
-#EXTINF:-1 tvg-id="GloboNordeste.br" tvg-name="Globo Nordeste"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Canais Globo",Globo PE
+#EXTINF:-1 tvg-id="GloboNordeste.br" tvg-name="Globo Nordeste"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"group-title="Canais Globo",Globo PE
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42984
 
-#EXTINF:-1 tvg-id="TVBahia.br" tvg-name="Globo Bahia"  tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg"group-title="Canais Globo",Globo BA
+#EXTINF:-1 tvg-id="TVBahia.br" tvg-name="Globo Bahia"  tvg-logo="https://1.bp.blogspot.com/-_evWs630mqY/XM-HwnoZ_yI/AAAAAAAAHUo/F3g2L7ZlrxsRzgHLSzFLSKGb54j0LTAXQCLcBGAs/s1600/tv%2Bbahia.png"group-title="Canais Globo",Globo BA
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/72890
 
 #EXTINF:-1 tvg-id="TVVerdesMares.br" tvg-name="Globo Ceará"  tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-verdes-mares-1_m.png"group-title="Canais Globo",Globo CE
