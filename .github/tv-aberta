@@ -20,7 +20,7 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w2010780107_b1626047.m3u8
  
 #EXTINF:-1 tvg-chno="07" tvg-id="Tvdiario.br" tvg-logo="https://tvonline.fm/wp-content/uploads/2016/04/tvdiarioce.png" group-title="TV",Tv Diário
-https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZRggOHdwpy6p7FMNxjF_37TlsMx-TFmGxAYweaH5zW-z)/dm/3/x7txn7q/s/live-3.m3u8
+https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8TbxAsq9RDfg6UPbaZt7PDWg3BZyBKc271aCTvsQ0tnH0xPSlsC5NdyVvX2mLONXXcSg&dmTs=382857&dmV1st=8AA9253C32E526CE6F547530362AB0A2
  
 #EXTINF:-1 tvg-chno="08" tvg-id="Terraviva.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/terra-viva-logo.png" group-title="TV",Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
