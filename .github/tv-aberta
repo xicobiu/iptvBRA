@@ -1,5 +1,8 @@
-#EXTINF:-1 tvg-chno="01" tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/Ll0dvQY.png" tvg-shift="0" group-title="TV", BAND
+#EXTINF:-1 tvg-chno="01" tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/Ll0dvQY.png" tvg-shift="0" group-title="TV", BAND Web
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
+
+#EXTINF:-1 tvg-chno="01" tvg-id="BandSP.br" tvg-name="Band TV SP" tvg-logo="https://imgur.com/Ll0dvQY.png" tvg-shift="0" group-title="TV", BAND TV SP
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/38429
 
 #EXTINF:-1 tvg-chno="02" tvg-id="Sbt.br" tvg-logo="https://imgur.com/3Mrx9Ee.png" group-title="TV",SBT PE
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
@@ -13,7 +16,7 @@ http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:-1 tvg-chno="04" tvg-id="Cultura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Catve.png" group-title="TV",Cultura PR Catve
 http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
 
-#EXTINF:-1 tvg-chno="05" tvg-id="TVE.br" tvg-logo="https://imgur.com/a/Wr40lR7" group-title="TV",TVE BAHIA
+#EXTINF:-1 tvg-chno="05" tvg-id="TVE.br" tvg-logo="https://i.imgur.com/EJbke4G.png" group-title="TV",TVE BAHIA
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
 #EXTINF:-1 tvg-chno="06" tvg-id="TvArapuan.br" tvg-logo="https://www.sucesso92fm.com.br/images/uploaded/parceiro/dafa1f5489f0b9ea75230021643d595e.png" group-title="TV",Tv Arapuan
@@ -32,7 +35,7 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42411
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36917
 
 #EXTINF:-1 tvg-id="10" tvg-name="RECORDNEWS.br"  tvg-logo="http://i.imgur.com/I99RZ9n.png"group-title="Abertos",Record News
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/41502
+http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37050
 
 #EXTINF:-1 tvg-chno="11" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="TV",Record TV
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/38421
