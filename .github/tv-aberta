@@ -11,7 +11,7 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/38420
 
 #EXTINF:-1 tvg-chno="04" tvg-id="TVGAZETA.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TV_Gazeta_logo.svg/300px-TV_Gazeta_logo.svg.png" group-title="TV",TV GAZETA
-http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
+https://www.dailymotion.com/cdn/live/video/x89qors.m3u8?sec=GaIaKVsrc5-3QR3KjdVaRpevZWDJ6gVA2ZKtq1u_mAOaNtVmK7g1sVMCzYpxQ-ZOdMSx2_TssyAdxV0opzMbVw&dmTs=825026&dmV1st=87A266981227E4A4854A875D7A032FA5
 
 #EXTINF:-1 tvg-chno="04" tvg-id="Cultura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Catve.png" group-title="TV",Cultura PR Catve
 http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
