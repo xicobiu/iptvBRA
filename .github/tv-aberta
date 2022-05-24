@@ -10,10 +10,10 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="02" tvg-id="Sbt.br" tvg-logo="https://imgur.com/3Mrx9Ee.png" group-title="TV",SBT Rede
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/38420
 
-#EXTINF:-1 tvg-chno="04" tvg-id="TVGAZETA.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TV_Gazeta_logo.svg/300px-TV_Gazeta_logo.svg.png" group-title="TV",TV Gazeta
+#EXTINF:-1 tvg-chno="03" tvg-id="TVGAZETA.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TV_Gazeta_logo.svg/300px-TV_Gazeta_logo.svg.png" group-title="TV",TV Gazeta
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/61960
 
-#EXTINF:-1 tvg-chno="04" tvg-id="TVGAZETA.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TV_Gazeta_logo.svg/300px-TV_Gazeta_logo.svg.png" group-title="TV",TV Gazeta Web
+#EXTINF:-1 tvg-chno="03" tvg-id="TVGAZETA.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TV_Gazeta_logo.svg/300px-TV_Gazeta_logo.svg.png" group-title="TV",TV Gazeta Web
 https://stream-01.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v2c8f7ZII3Xq-rzSTaiL2uRezX3MRQVLTaKFZvhfwSLS)/dm/3/x89qors/d/live-4.m3u8
 
 #EXTINF:-1 tvg-chno="04" tvg-id="Cultura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Catve.png" group-title="TV",Cultura PR Catve
