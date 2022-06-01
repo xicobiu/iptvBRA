@@ -14,7 +14,7 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/38420
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/61960
 
 #EXTINF:-1 tvg-chno="03" tvg-id="TVGAZETA.br" tvg-logo="https://i.imgur.com/zRmAVTB.png" group-title="TV",TV Gazeta Web
-https://stream-01.dc3.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v0U27MQNq4iGc6-M-0yl6UbOinV9YIL-Kg38j69Dpug5)/dm/3/x89qors/d/live-4.m3u8
+https://stream-02.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v5IhFGYtdHbagszmHNduPg2NErd4FSWN-agNKf5W77px)/dm/3/x89qors/d/live-4.m3u8
 
 #EXTINF:-1 tvg-chno="04" tvg-id="Cultura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Catve.png" group-title="TV",Cultura PR Catve
 http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
@@ -40,7 +40,7 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37050
 #EXTINF:-1 tvg-chno="11" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="TV",Record TV
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/38421
 
-#EXTINF:-1 tvg-chno="12" tvg-id="RedeTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/RedeTV%21Logotipo.jpg" group-title="TV",Rede TV!
+#EXTINF:-1 tvg-chno="12" tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/v6XJ4N4.png" group-title="TV",Rede TV!
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36946
 
 #EXTINF:-1 tvg-chno="13" tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/M46I4T8.png" group-title="TV",CNN Brasil
