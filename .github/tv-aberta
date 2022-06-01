@@ -55,7 +55,7 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/61961
 #EXTINF:-1 tvg-chno="15" tvg-id="Arte1.br" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="TV Fechada",Arte 1
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/41467
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Saborearte.br" tvg-logo="https://i.imgur.com/bEom5pI.png" group-title="TV Fechada",Sabor & Arte
+#EXTINF:-1 tvg-chno="15" tvg-id="Saborearte.br" tvg-logo="https://mondrian.claro.com.br/channels/default/sabor-e-arte.svg" group-title="TV Fechada",Sabor & Arte
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/86533
 
 #EXTINF:-1 tvg-chno="15" tvg-id="Woohoo.br" tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="TV Fechada",Woohoo
@@ -76,10 +76,10 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/50656
 #EXTINF:-1 tvg-id="17" tvg-name="GloboSp.br"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"group-title="Abertos",Globo SP GPLAY
 https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-SP.m3u8
 
-#EXTINF:-1 tvg-id="20" tvg-name="MtvLive"  tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/MTVLIVE/large_white.png"group-title="TV Fechada",MTV Live
+#EXTINF:-1 tvg-id="20" tvg-name="MtvLive"  tvg-logo="https://mondrian.claro.com.br/channels/default/mtv-live-hd.svg"group-title="TV Fechada",MTV Live
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/40518
 
-#EXTINF:-1 tvg-id="21" tvg-name="Mtv.br"  tvg-logo="http://i.imgur.com/U6Rgjqs.png"group-title="TV Fechada",MTV
+#EXTINF:-1 tvg-id="21" tvg-name="Mtv.br"  tvg-logo="https://mondrian.claro.com.br/brands/channels/mtv-hd.svg"group-title="TV Fechada",MTV
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/40266
 
 #EXTINF:-1 tvg-id="23" tvg-name="tvnovotempo.br"  tvg-logo="https://i.imgur.com/Y2ncDiz.png"group-title="Abertos",Tv Novo Tempo
@@ -115,10 +115,10 @@ http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/61976
 #EXTINF:-1 tvg-id="TVMiranteSaoLuis.br" tvg-name="Globo Maranhão"  tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-mirante-s-o-luis_m.png"group-title="Canais Globo",Globo MA
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42988
 
-#EXTINF:-1 tvg-id="TVAnhanguera.br" tvg-name="Globo Goiás"  tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-anhanguera-palmas_m.png"group-title="Canais Globo",Globo GO GPLAY
+#EXTINF:-1 tvg-id="TVAnhanguera.br" tvg-name="Globo Goiás"  tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-anhanguera-palmas_m.png"group-title="Canais Globo",Globo GO
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42986
 
-#EXTINF:-1 tvg-id="RPCCuritiba.br" tvg-name="Globo Paraná"  tvg-logo="https://cdn.mitvstatic.com/channels/br_rpc-curitiba_m.png"group-title="Canais Globo",Globo PR GPLAY
+#EXTINF:-1 tvg-id="RPCCuritiba.br" tvg-name="Globo Paraná"  tvg-logo="https://cdn.mitvstatic.com/channels/br_rpc-curitiba_m.png"group-title="Canais Globo",Globo PR
 http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/38381
 
 #EXTINF:-1 tvg-id="NSCTVFlorianopolis.br" tvg-name="Globo Santa Catarina"  tvg-logo="https://cdn.mitvstatic.com/channels/br_nsc-tv-florianopolis-hd_m.png"group-title="Canais Globo",Globo SC
