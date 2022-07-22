@@ -2,22 +2,22 @@
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
 
 #EXTINF:-1 tvg-chno="01" tvg-id="BandSP.br" tvg-name="Band TV SP" tvg-logo="https://i.imgur.com/PDUuGPZ.png" tvg-shift="0" group-title="TV", BAND TV SP
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/38429
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/41530.mpegts
 
 #EXTINF:-1 tvg-chno="02" tvg-id="Sbt.br" tvg-logo="https://imgur.com/3Mrx9Ee.png" group-title="TV",SBT PE
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="02" tvg-id="Sbt.br" tvg-logo="https://imgur.com/3Mrx9Ee.png" group-title="TV",SBT Rede
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/38420
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/36945.mpegts
 
 #EXTINF:-1 tvg-chno="03" tvg-id="TVGAZETA.br" tvg-logo="https://i.imgur.com/zRmAVTB.png" group-title="TV",TV Gazeta
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/61960
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/60201.mpegts
 
 #EXTINF:-1 tvg-chno="03" tvg-id="TVGAZETA.br" tvg-logo="https://i.imgur.com/zRmAVTB.png" group-title="TV",TV Gazeta Web
 https://stream-02.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v5IhFGYtdHbagszmHNduPg2NErd4FSWN-agNKf5W77px)/dm/3/x89qors/d/live-4.m3u8
 
 #EXTINF:-1 tvg-chno="04" tvg-id="Cultura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Catve.png" group-title="TV",Cultura PR Catve
-http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/61961.mpegts
 
 #EXTINF:-1 tvg-chno="05" tvg-id="TVE.br" tvg-logo="https://i.imgur.com/EJbke4G.png" group-title="TV",TVE BAHIA
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
@@ -26,109 +26,111 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8TbxAsq9RDfg6UPbaZt7PDWg3BZyBKc271aCTvsQ0tnH0xPSlsC5NdyVvX2mLONXXcSg&dmTs=382857&dmV1st=8AA9253C32E526CE6F547530362AB0A2
  
 #EXTINF:-1 tvg-chno="08" tvg-id="Terraviva.br" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/terra-viva-logo.png" group-title="TV",Terra Viva
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/81607.mpegts
 
 #EXTINF:-1 tvg-chno="09" tvg-id="BandNews.br" tvg-logo="https://i.imgur.com/0Rwd8kM.png" group-title="TV Fechada",Band News
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42411
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/42411.mpegts
 
 #EXTINF:-1 tvg-id="10" tvg-name="globonews.br"  tvg-logo="http://i.imgur.com/UOMWJH6.png"group-title="Abertos",Globo News
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36917
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/36917.mpegts
 
 #EXTINF:-1 tvg-id="10" tvg-name="RECORDNEWS.br"  tvg-logo="http://i.imgur.com/I99RZ9n.png"group-title="Abertos",Record News
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/37050
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/37050.mpegts
 
 #EXTINF:-1 tvg-chno="11" tvg-id="RecordTV.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="TV",Record TV
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/38421
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/36947.mpegts
 
 #EXTINF:-1 tvg-chno="12" tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/v6XJ4N4.png" group-title="TV",Rede TV!
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36946
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/36946.mpegts
 
 #EXTINF:-1 tvg-chno="13" tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/M46I4T8.png" group-title="TV",CNN Brasil
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/65041
-
-#EXTINF:-1 tvg-chno="14" tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/v6XJ4N4.png" group-title="TV",Rede TV! PB
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36946https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w2010780107_b1626047.m3u8
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/65039.mpegts
 
 #EXTINF:-1 tvg-chno="15" tvg-id="TvCultura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="TV",Tv Cultura
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42903
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/61961.mpegts
 
 #EXTINF:-1 tvg-chno="15" tvg-id="Arte1.br" tvg-logo="http://i.imgur.com/uHwATw4.png" group-title="TV Fechada",Arte 1
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/41467
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/63637.mpegts
 
 #EXTINF:-1 tvg-chno="15" tvg-id="Saborearte.br" tvg-logo="https://i.imgur.com/9iYEpH1.png" group-title="TV Fechada",Sabor & Arte
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/86533
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/86534.mpegts
 
 #EXTINF:-1 tvg-chno="15" tvg-id="Woohoo.br" tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="TV Fechada",Woohoo
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/63777
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/36899.mpegts
 
 #EXTINF:-1 tvg-chno="15" tvg-id="lifetime.br" tvg-logo="http://i.imgur.com/tsFolbI.png" group-title="TV Fechada",Lifetime
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/40265
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/36914.mpegts
 
 #EXTINF:-1 tvg-chno="15" tvg-id="tooncast.br" tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="TV Fechada",Tooncast
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/63648
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/63647.mpegts
 
 #EXTINF:-1 tvg-chno="15" tvg-id="curta.br" tvg-logo="https://i.imgur.com/IlzIxvv.png" group-title="TV Fechada",Curta!
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/41472
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/63646.mpegts
 
 #EXTINF:-1 tvg-chno="15" tvg-id="bandsports.br" tvg-logo="https://i.imgur.com/7ItcMOv.jpg" group-title="TV Fechada",BAND SPORTS
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/50656
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/36989.mpegts
 
 #EXTINF:-1 tvg-id="17" tvg-name="GloboSp.br"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"group-title="Abertos",Globo SP GPLAY
 https://raw.githubusercontent.com/xicobiu/iptvBRA/main/.github/GloboTV-SP.m3u8
 
 #EXTINF:-1 tvg-id="20" tvg-name="MtvLive"  tvg-logo="https://i.imgur.com/xD50FsQ.png"group-title="TV Fechada",MTV Live
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/40518
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/40518.mpegts
+
+#EXTINF:-1 tvg-id="20" tvg-name="MtvLive"  tvg-logo="https://i.imgur.com/mXuzJsn.png"group-title="TV Fechada",MTV 00's
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/36900.mpegts
 
 #EXTINF:-1 tvg-id="21" tvg-name="Mtv.br"  tvg-logo="https://i.imgur.com/dfGGm7W.png"group-title="TV Fechada",MTV
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/40266
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/36910.mpegts
 
 #EXTINF:-1 tvg-id="23" tvg-name="tvnovotempo.br"  tvg-logo="https://i.imgur.com/Y2ncDiz.png"group-title="Abertos",Tv Novo Tempo
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/61963
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/68524.mpegts
 
 #EXTINF:-1 tvg-id="24" tvg-name="tvaparecida.br"  tvg-logo="http://i.imgur.com/UOMWJH6.png"group-title="Abertos",Tv Aparecida
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/75175
-
-#EXTINF:-1 tvg-id="25" tvg-name="globonews.br"  tvg-logo="http://i.imgur.com/GIbRutN.png"group-title="TV Fechada",Globo News
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/36917
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/41341.mpegts
 
 #EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-name="Globo Rio"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"group-title="Abertos",Globo RJ
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/38425
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/36968.mpegts
 
 #EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="Globo São Paulo"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"group-title="Canais Globo",Globo SP
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/68050
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/37361.mpegts
 
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasília"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"group-title="Canais Globo",Globo DF
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/64592
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/40513.mpegts
 
 #EXTINF:-1 tvg-id="TVglobominas.br" tvg-name="Globo Minas"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"group-title="Canais Globo",Globo BH
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/41515
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/40251.mpegts
 
 #EXTINF:-1 tvg-id="GloboNordeste.br" tvg-name="Globo Nordeste"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"group-title="Canais Globo",Globo PE
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42984
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/64653.mpegts
 
 #EXTINF:-1 tvg-id="TVBahia.br" tvg-name="Globo Bahia"  tvg-logo="https://1.bp.blogspot.com/-_evWs630mqY/XM-HwnoZ_yI/AAAAAAAAHUo/F3g2L7ZlrxsRzgHLSzFLSKGb54j0LTAXQCLcBGAs/s1600/tv%2Bbahia.png"group-title="Canais Globo",Globo BA
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/72890
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/72889.mpegts
 
 #EXTINF:-1 tvg-id="TVVerdesMares.br" tvg-name="Globo Ceará"  tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-verdes-mares-1_m.png"group-title="Canais Globo",Globo CE
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/61976
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/61976.mpegts
+
+#EXTINF:-1 tvg-id="TVVerdesMares.br" tvg-name="Globo Piauí"  tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-verdes-mares-1_m.png"group-title="Canais Globo",Globo PI
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/65269.mpegts
 
 #EXTINF:-1 tvg-id="TVMiranteSaoLuis.br" tvg-name="Globo Maranhão"  tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-mirante-s-o-luis_m.png"group-title="Canais Globo",Globo MA
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42988
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/42989.mpegts
+
+#EXTINF:-1 tvg-id="TVMiranteSaoLuis.br" tvg-name="Globo Alagoas"  tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-mirante-s-o-luis_m.png"group-title="Canais Globo",Globo AL
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/42996.mpegts
 
 #EXTINF:-1 tvg-id="TVAnhanguera.br" tvg-name="Globo Goiás"  tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-anhanguera-palmas_m.png"group-title="Canais Globo",Globo GO
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42986
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/38967.mpegts
 
 #EXTINF:-1 tvg-id="RPCCuritiba.br" tvg-name="Globo Paraná"  tvg-logo="https://cdn.mitvstatic.com/channels/br_rpc-curitiba_m.png"group-title="Canais Globo",Globo PR
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/38381
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/63695.mpegts
 
 #EXTINF:-1 tvg-id="NSCTVFlorianopolis.br" tvg-name="Globo Santa Catarina"  tvg-logo="https://cdn.mitvstatic.com/channels/br_nsc-tv-florianopolis-hd_m.png"group-title="Canais Globo",Globo SC
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/42969
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/65270.mpegts
 
 #EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" tvg-name="Globo Rio Grande do Sul"  tvg-logo="https://cdn.mitvstatic.com/channels/br_rbs-tv-porto-alegre-hd_m.png"group-title="Canais Globo",Globo RS
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/51215
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/40252.mpegts
 
 #EXTINF:-1 tvg-id="RedeAmazonicaManaus.br" tvg-name="Globo Manaus"  tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-amazonica-rio-branco-hd_m.png"group-title="Canais Globo",Globo AM fuso-1
-http://tv.factoryiptv.com:80/Sidy171/5p9tps3d6sr/64649
-
+http://tv.minhalista.me/live/5GRtRwWyVb/factoryiptv/51310.mpegts
 
 
